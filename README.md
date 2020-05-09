@@ -8,6 +8,7 @@ SnapWik is an image recognition application build on an android operating system
 
 # Working of Google Cloud Vision API
 <p align="center">
- <img src="GoogleCloud.png" width="400">
+ <img src="GoogleCloud.png" width="500">
 </p>
+
 “Quickstart: Using Client Libraries  |  Cloud Vision API  |  Google Cloud,” Google. [Online]. Available: https://cloud.google.com/vision/docs/quickstart-client-libraries.
